@@ -1,5 +1,5 @@
 ﻿# pokémonn_search_app
-This application receives input from a user in the form of a Pokémon name or ID and returns the corresponding Pokémon's stats. This was my attempt at the final certification project in the "JavaScript Algorithms and Data Structures" curriculum from freecodecamp.org. 
+This application receives input from a user in the form of a Pokémon name or ID and returns the corresponding Pokémon's stats. This was my attempt at the final certification project in the "JavaScript Algorithms and Data Structures" curriculum from freecodecamp.org. Try it out here: https://robmad93.github.io/pok-mon_search_app/
 
 ## Screenshots
 
